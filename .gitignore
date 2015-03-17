@@ -41,3 +41,30 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.log
+*.lock
+*.zip
+*.gen
+.metadata/.mylyn/.taskListIndex/segments_1
+.metadata/.plugins/org.eclipse.core.resources/.history/12/10b8697bf4cc00141cf7bf326a8f895b
+*.index
+*.xml
+*.launch
+*.properties
+*.repositories
+.recommenders/index/http___download_eclipse_org_recommenders_models_luna_/_0.tis
+*.tii
+.recommenders/index/http___download_eclipse_org_recommenders_models_luna_/segments_1
+*.ini
+.metadata/.plugins/org.eclipse.team.cvs.core/.running
+*.fdx
+*.snap
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
+*.prefs
+*.png
+.metadata/.plugins/org.eclipse.core.resources/.history/ea/1028c2e4f9cc00141cf7bf326a8f895b
+.metadata/.plugins/org.eclipse.core.resources/.history/f1/a0e50a40f4cc00141cf7bf326a8f895b
+.metadata/.plugins/org.eclipse.core.resources/.history/aa/607333a9f6cc00141cf7bf326a8f895b
+.metadata/.plugins/org.eclipse.core.resources/.history/b/d00a116ff1cc00141cf7bf326a8f895b
+.metadata/.plugins/org.eclipse.core.resources/.history/97/20c12ac8f0cc00141cf7bf326a8f895b
+.metadata/.plugins/org.eclipse.core.resources/.history/a8/a0fbd322f1cc00141cf7bf326a8f895b
