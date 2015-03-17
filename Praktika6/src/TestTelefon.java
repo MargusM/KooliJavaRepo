@@ -2,7 +2,7 @@
 public class TestTelefon {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub123
 
 		Lauatelefon t1 = new Lauatelefon(123456789, "til tol", "Küla");
 		Lauatelefon t2 = new Lauatelefon(1234, "Tiigi tn");
