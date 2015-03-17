@@ -52,7 +52,7 @@ Temporary Items
 *.launch
 *.properties
 *.repositories
-.recommenders/index/http___download_eclipse_org_recommenders_models_luna_/_0.tis
+.recommenders/
 *.tii
 .recommenders/index/http___download_eclipse_org_recommenders_models_luna_/segments_1
 *.ini
@@ -68,3 +68,4 @@ Temporary Items
 .metadata/.plugins/org.eclipse.core.resources/.history/b/d00a116ff1cc00141cf7bf326a8f895b
 .metadata/.plugins/org.eclipse.core.resources/.history/97/20c12ac8f0cc00141cf7bf326a8f895b
 .metadata/
+/bin/
