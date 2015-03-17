@@ -69,3 +69,6 @@ Temporary Items
 .metadata/.plugins/org.eclipse.core.resources/.history/97/20c12ac8f0cc00141cf7bf326a8f895b
 .metadata/
 /bin/
+*.class
+*.project
+*.classpath
