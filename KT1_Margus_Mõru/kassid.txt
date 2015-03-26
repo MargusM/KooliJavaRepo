@@ -1,0 +1,24 @@
+Briti lühikarvaline;Carradine D. Chi Chat Cat;4;15;5;6
+Jaava;Adonis Adoro LT;15;20;7;10
+Pärsia;Miku The Barbarian;65;16;6;4
+Briti pikakarvaline;Macrory Bon Bon;42;9;11;11
+Jaava;Macrory Hermes;20;10;10;10
+Briti pikakarvaline;Adonis Adoro LT;96;5;15;9
+Jaava;Absolu Suprise of Macrory;22;7;8;16
+Orientaal;Is-Kis Frozen Bok;48;20;5;5
+Vene sinine;Forest Pride Ursulina;39;11;12;25
+Jaava;Anoya Tigre;73;7;9;8
+Jaava;Dayana Glamour Queen;32;11;15;20
+Briti pikakarvaline;Mirrorofsoul Iris Kis-Kis;6;7;13;17
+Sfinks;Tiltu;100;17;18;19
+Pärsia;Kaji Meiko;27;7;25;10
+Briti lühikarvaline;Wilbur;50;15;20;7
+Briti lühikarvaline;Typhoon;8;20;8;19
+Siiam;Aiaia Uruku Chi Chat Cat;12;4;6;22
+Pärsia;Absolu Surprise of Macrory;28;7;28;9
+Briti pikakarvaline;Paabu;56;15;10;11
+Jaava;Prints;15;15;15;15
+Sfinks;Tiku;11;11;11;11
+Briti lühikarvaline;Topsik Tora;9;8;7;6
+Orientaal;Bonneamie Twin Oaks;83;14;19;5
+Jaava;Simplymunchkins Cappucino;14;15;16;17
