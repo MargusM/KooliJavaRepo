@@ -70,5 +70,4 @@ Temporary Items
 .metadata/
 /bin/
 *.class
-*.project
-*.classpath
+
