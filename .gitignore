@@ -60,7 +60,6 @@ Temporary Items
 *.fdx
 *.snap
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
-*.prefs
 *.png
 .metadata/.plugins/org.eclipse.core.resources/.history/ea/1028c2e4f9cc00141cf7bf326a8f895b
 .metadata/.plugins/org.eclipse.core.resources/.history/f1/a0e50a40f4cc00141cf7bf326a8f895b
