@@ -19,7 +19,7 @@ public class Tulpdiagramm extends Application {
 	public void start(Stage peaLava) throws FileNotFoundException {
 		ArrayList<Integer> arvud = loeArvud(new File("arvud.txt"));
 		Group g = new Group();
-		Canvas c = new Canvas(arvud.size() * 30 + 30, 150);
+		Canvas c = new Canvas(arvud.size() * 30+30, 150);
 		GraphicsContext gc = c.getGraphicsContext2D();
 		
 		joonistaTulbad(gc,arvud);
@@ -42,8 +42,8 @@ public class Tulpdiagramm extends Application {
 			} else {
 				gc.setFill(Color.BLUE);
 			}
-			gc.fillRect(xcoord, 100 - arv, 20, arv);
-			gc.fillText(Integer.toString(arv), xcoord + 5, 110);
+			gc.fillRect(xcoord, 120 - arv, 20, arv);
+			gc.fillText(Integer.toString(arv), xcoord + 5, 130);
 			xcoord+= 30;
 		}
 	}
