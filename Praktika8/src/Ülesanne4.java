@@ -13,6 +13,7 @@ public class Ülesanne4 extends Application {
 		Scene stseen1 = new Scene(juur, 500, 500);
 		
 		Button nupp1 = new Button();
+		nupp1.setText("Vajuta");
 		
 		juur.getChildren().add(nupp1);
 		peaLava.setTitle("Nupp");
