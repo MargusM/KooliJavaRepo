@@ -21,9 +21,11 @@ public class Ülesanne3 extends Application {
 		peaLava.setTitle("Ring");
 		peaLava.setScene(stseen1);
 		
+		double x2= stseen1.getWidth();
+		
 		class Käsitleja implements EventHandler<MouseEvent>{
 			public void handle(MouseEvent me) {
-				System.out.println("Hiir läks ringist välja");
+				System.out.println("Hiir läks ringist välja " + stseen1.getWidth());
 			}
 		}
 		

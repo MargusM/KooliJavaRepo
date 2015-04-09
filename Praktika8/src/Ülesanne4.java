@@ -15,10 +15,21 @@ public class Ülesanne4 extends Application {
 		Button nupp1 = new Button();
 		nupp1.setText("Vajuta");
 		
+		nupp1.setOnMousePressed(event -> liikumine(nupp1, stseen1));
+		
 		juur.getChildren().add(nupp1);
 		peaLava.setTitle("Nupp");
 		peaLava.setScene(stseen1);
 		peaLava.show();
+		
+		double x2= stseen1.getWidth();
+		
+		
+	}
+	
+	public void liikumine(Button nupp, Scene stseen) {
+		nupp.setLayoutX(Math.random() * (stseen.getWidth() - nupp.getWidth()));
+		nupp.setLayoutY(Math.random() * (stseen.getHeight() - nupp.getHeight()));
 	}
 
 	public static void main(String[] args) {
